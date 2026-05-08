@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LixeiraController : MonoBehaviour
+public class lixeiracontroller : MonoBehaviour
 {
     public float velocity;
 
